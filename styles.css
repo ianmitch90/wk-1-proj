@@ -225,8 +225,8 @@ header h3 {
   transition: color 0.5s ease-in;
 }
 
-.room-to-grow {
-  background-image: url(../images/background-3.jpg);
+.roomtogrow {
+  background-image: url(images/background-3.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right center;
